@@ -1,3 +1,7 @@
 .vjs-modal-dialog-content {
   display: none;
 }
+
+.vjs-error-display {
+  display: none;
+}
