@@ -1,15 +1,15 @@
 .vjs-modal-dialog-content {
-  display: none;
+  display: none !important;
 }
 
 .vjs-error-display {
-  display: none;
+  display: none !important;
 }
 
 .vjs-error {
-  display: none;
+  display: none !important;
 }
 
 .vjs-modal-dialog {
-  display: none;
+  display: none !important;
 }
