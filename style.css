@@ -6,6 +6,10 @@
   display: none;
 }
 
+.vjs-error {
+  display: none;
+}
+
 .vjs-modal-dialog {
   display: none;
 }
