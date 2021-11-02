@@ -5,3 +5,7 @@
 .vjs-error-display {
   display: none;
 }
+
+.vjs-modal-dialog {
+  display: none;
+}
